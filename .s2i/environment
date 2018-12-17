@@ -1,3 +1,5 @@
+HTTP_PROXY_HOST=webproxy.hml.lab-nxtit.priv
+HTTP_PROXY_PORT=3128
 HTTP_PROXY=http://webproxy.hml.lab-nxtit.priv:3128/
 HTTPS_PROXY=http://webproxy.hml.lab-nxtit.priv:3128/
 NO_PROXY=.cluster.local,.elb.amazonaws.com,.hml.lab-nxtit.priv,.internal,.local,.localdomain,.priv,.svc,10.0.128.44,10.0.128.58,10.0.128.81,10.128.0.93,127.0.0.1,169.254.169.254,172.30.0.1,internal-openshift-master.ocp.hml.lab-nxtit.priv,ip-10-0-128-124.eu-west-1.compute.internal,ip-10-0-128-131.eu-west-1.compute.internal,ip-10-0-128-219.eu-west-1.compute.internal,ip-10-0-128-243.eu-west-1.compute.internal,ip-10-0-128-44.eu-west-1.compute.internal,ip-10-0-128-58.eu-west-1.compute.internal,ip-10-0-128-71.eu-west-1.compute.internal,ip-10-0-128-81.eu-west-1.compute.internal,ip-10-0-128-89.eu-west-1.compute.internal,localhost,.default
